@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F2YGyFNcPHhNUqz55i5HcpOHgPUe1NAj3NXyFXiE6geUFHqjh0sAD7FtACZcLeyBEFY2ZmvZugMrx7zi1WzL1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ilkay\\OneDrive\\Masaüstü\\Pratikler\\PhoneBookApp\\PhoneBookApp\\PhoneBookApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilkay\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
